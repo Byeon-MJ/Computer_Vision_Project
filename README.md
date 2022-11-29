@@ -1,6 +1,6 @@
 # Computer_Vision_Project
 
-DeepLearning Comput Vision을 위한 연습문제들을 공부하고 그 내용을 기록한 Repository 입니다.
+DeepLearning Computer Vision을 위한 연습문제들을 공부하고 그 내용을 기록한 Repository 입니다.
 
 Project List
   1. Cats & Dogs Classification

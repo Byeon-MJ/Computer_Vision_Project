@@ -5,7 +5,7 @@ DeepLearning Computer Vision을 위한 연습문제들을 공부하고 그 내�
 Project List
   1. Cats & Dogs Classification
   2. Pneumonia Diagnose Classification
-  3. Multiple Image Classification
+  3. Multiple Image Classification https://colab.research.google.com/drive/1Jh37IMK2ZPH9GPukZS4S6OFwpdHnzozH
   4. OpenCV Basic Skills
   5. Handwritten Digits Classification
   6. Image & Video Face Detection with HaarCascade

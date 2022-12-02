@@ -9,3 +9,5 @@ Project List
   4. OpenCV Basic Skills
   5. Handwritten Digits Classification
   6. Image & Video Face Detection with HaarCascade
+  7. Image & Video Face Detection with DNN
+  8. Image & Video Object Detection with YOLO

@@ -11,19 +11,25 @@ Project List
 
   2. Pneusmonia Diagnose Classification
       * Diagnose_Pneumonia_Classification.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Diagnose_Pneumonia_Classification.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
   3. Multiple Image Classification
       * Image_Multi_Classification.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Image_Multi_Classification.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
   4. OpenCV Basic Skills
       * OpenCV_Basic_Skills.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/OpenCV_Basic_Skills.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
   5. Handwritten Digits Classification
       * Hadwritten_Digits_Classification.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Hadwritten_Digits_Classification.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
   6. Image & Video Face Detection with HaarCascade
       * Image_Face_Detection_Haarcascade.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Image_Face_Detection_Haarcascade.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
       * Video_Face_Detection_Haarcascade.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Video_Face_Detection_Haarcascade.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
   7. Image & Video Face Detection with DNN
       * Image_Face_Detection_DNN.ipynb

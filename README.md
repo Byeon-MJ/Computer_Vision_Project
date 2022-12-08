@@ -4,8 +4,10 @@ DeepLearning Computer Vision을 위한 연습문제들을 공부하고 그 내�
 
 Project List
   1. Cats & Dogs Classification
-      * Cats_Dogs_Classification.ipynb<a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Cats_Dogs_Classification.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
-      * Cats_Dogs_Classification_Load_model.ipynb<a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Cats_Dogs_Classification_Load_model.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
+      * Cats_Dogs_Classification.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Cats_Dogs_Classification.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
+      * Cats_Dogs_Classification_Load_model.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Cats_Dogs_Classification_Load_model.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
   2. Pneusmonia Diagnose Classification
       * Diagnose_Pneumonia_Classification.ipynb

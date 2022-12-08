@@ -33,18 +33,27 @@ Project List
 
   7. Image & Video Face Detection with DNN
       * Image_Face_Detection_DNN.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Image_Face_Detection_DNN.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
       * Video_Face_Detection_DNN.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Video_Face_Detection_DNN.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
   8. Image & Video Object Detection with YOLO
       * YOLO_Image_Object_Detection.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/YOLO_Image_Object_Detection.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
       * YOLO_Video_Object_Detection.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/YOLO_Video_Object_Detection.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
   9. Image & Video Face Recognition
       * Face Encoding.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Face_Encoding.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
       * Image_Face_Recognition.ipynb
-      * Video_Face_Recognition.ipynb 
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Image_Face_Recognition.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
+      * Video_Face_Recognition.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Video_Face_Recognition.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
   10. Face Recognition(Face Landmark and Alignment)
       * Face_Recognition_Landmark.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Face_Recognition_Landmark.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
       * Face_Landmark_video.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/Computer_Vision_Project/blob/main/Face_Landmark_Video.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
       * (ing)Face_Alignment.ipynb

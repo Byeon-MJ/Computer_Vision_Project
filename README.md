@@ -1,4 +1,4 @@
-# Computer_Vision_Project
+# DL_Computer_Vision
 ![download](https://user-images.githubusercontent.com/69300448/206943787-a1182568-b665-4cc6-bf76-0b3d62b28371.jpg)
 
 **DeepLearning Computer Vision**을 위한 연습문제들을 공부하고 그 내용을 기록한 Repository 입니다.

@@ -2,6 +2,7 @@
 ![download](https://user-images.githubusercontent.com/69300448/206943787-a1182568-b665-4cc6-bf76-0b3d62b28371.jpg)
 
 **DeepLearning Computer Vision**을 위한 연습문제들을 공부하고 그 내용을 기록한 Repository 입니다.
+전체 코드 공유가 문제가 될 시, 비공개로 전환될 수 있습니다.
 
 Project List
   1. Cats & Dogs Classification

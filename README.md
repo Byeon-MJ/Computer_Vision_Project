@@ -78,3 +78,12 @@ Project List
   13. Face Tracking
       * Face_Tracking.ipynb
       <a href="https://colab.research.google.com/github/Byeon-MJ/DL_Computer_Vision/blob/main/Face_Tracking.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
+      
+  14. Text Recognition
+      * Text_Recognition_CarNumber.ipynb
+      <a href="https://colab.research.google.com/github/Byeon-MJ/DL_Computer_Vision/blob/main/Text_Recognition_CarNumber.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
+      
+  15. Count of Parked Cars
+      * Image Parking car Count
+      
+      * Vedio Parking car Count

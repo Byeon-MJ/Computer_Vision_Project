@@ -1,3 +1,5 @@
+무조건 따라하는 딥러닝 컴퓨터 비전
+- 완료 -
 # DL_Computer_Vision
 ![download](https://user-images.githubusercontent.com/69300448/206943787-a1182568-b665-4cc6-bf76-0b3d62b28371.jpg)
 
